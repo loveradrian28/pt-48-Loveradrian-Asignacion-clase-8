@@ -1,0 +1,34 @@
+LENGUAJES BASADOS EN C 
+
+*python*: Python es multipropósito, lo que significa que funciona como lenguaje orientado a objetos, 
+pero también como lenguaje funcional e imperativo.
+
+Viene de maravilla para organizar y analizar grandes volúmenes de datos. 
+Por eso es muy utilizado por los científicos de datos.
+Python se puede usar para crear aplicaciones web.
+Puede emplearse para desarrollar sitios web. Netflix, por ejemplo, 
+está desarrollado casi desde cero con Python.
+Se usa para desarrollar inteligencia artificial.
+
+*JavaScript*: Javascript es un lenguaje de programación pensado para implementar 
+funciones y elementos más complejos dentro de un sitio web. De esta forma, una página estándar,
+ hecha con HTML y algo de CSS, puede convertirse en un sitio mucho más dinámico.
+ Con Javascript puedes agregar elementos complejos a tu web.
+
+Javascript permite que un sitio web tenga funcionalidades interactivas, 
+lo que mejora mucho la experiencia de usuario que brinda.
+
+*C#*: Este lenguaje de programación multiparadigma, derivado de C y C++, 
+fue creado por Microsoft para integrarse a la plataforma .NET. 
+
+Por lo general se emplea para desarrollar sitios y aplicaciones web, 
+y dada su flexibilidad y rendimiento, se ha convertido rápidamente en una opción preferida para ello.
+
+-Es un lenguaje de programación multiplataforma, por lo que sus aplicaciones y programas
+ son compatibles en muchos dispositivos distintos.
+-Al ser uno de los tipos de lenguajes de programación más usados, cuenta con una comunidad grande.
+-Usando C# puedes crear desde sitios web hasta videojuegos.
+
+
+
+

@@ -1,0 +1,22 @@
+DIFERENCIAS ENTRE VAR Y LET 
+
+Las variables pueden tener 3 tipos de scope (dependiendo de dónde se declaren).
+
+Global: accesible desde cualquier parte del código.
+Función: accesible dentro del cuerpo de una función.
+Bloque: accesible dentro de un bloque delimitado por { }. 
+
+Tanto *var* y *let* son palabras claves (keywords) utilizadas para declarar variables a lo largo del codigo.
+Sin embargo, hay diferencias entre ellas que nos ayudan a preferir el uso de una u otra. 
+
+Las variables declaradas con var pueden redeclararse y reasignarse;
+ tienen solo scope global o de función; y permiten un hoisting de iniciación a undefined.
+
+Las variables declaradas con let no pueden redeclararse, pero sí reasignarse; 
+tienen scope global, de función o de bloque; y en hoisting no se inicializa a ningún valor.
+
+
+
+
+
+

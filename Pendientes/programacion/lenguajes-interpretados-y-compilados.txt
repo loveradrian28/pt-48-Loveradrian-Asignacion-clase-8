@@ -1,0 +1,30 @@
+Lenguajes compilados
+
+Los lenguajes compilados son convertidos directamente a código máquina 
+que el procesador puede ejecutar. Como resultado, suelen ser más rápidos 
+y más eficientes al ejecutarse en comparación con los lenguajes interpretados.
+
+Los lenguajes compilados necesitan un paso de compilación (build) 
+- primero necesitan compilarse manualmente. Necesitas "recompilar" el programa 
+cada vez que necesites hacer un cambio.
+
+Algunos ejemplos de lenguajes compilados puros son C, C++, Erlang, Haskell, Rust y Go.
+
+Lenguajes interpretados
+
+Estos lenguajes ejecutan línea por línea el programa y a la vez ejecutan cada comando.
+Ejemplos comunes de lenguajes interpretados son PHP, Ruby, Python y JavaScript.
+
+Ventajas de los lenguajes compilados
+
+Los programas que son compilados a un código máquina nativo suelen ser más rápidos 
+que los lenguajes interpretados. Esto es debido a que el proceso de traducción del 
+código en tiempo de ejecución aumenta la sobrecarga y puede ocasionar que el programa 
+sea más lento en general.
+
+Ventajas de los lenguajes interpretados
+
+Los lenguajes interpretados suelen ser más flexibles, 
+y a menudo ofrecen características como escritura dinámica y tamaño de 
+programa más pequeño. Además, ya que los intérpretes ejecutan el código fuente 
+del programa ellos mismos, el código en sí es independiente de la plataforma.

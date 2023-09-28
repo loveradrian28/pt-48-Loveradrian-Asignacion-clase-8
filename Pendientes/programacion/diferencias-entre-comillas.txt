@@ -1,0 +1,39 @@
+DIFERENCIA ENTRE COMIILAS DOBLES "" Y COMILLAS SIMPLES ''
+
+Las comillas simples y dobles son metodos similares para definir cadenas de texto en javascript
+
+const saludo = "Hola, ¿cómo estás?"; 
+const palabra = 'Hola'; 
+
+Podemos variar su uso mientras se haga de manera adecuada. Es decir, siempre utilizar las comillas de 
+inicio y final de manera igual. 
+
+const saludo = "Hola, ¿como estas?' <!--No será valido-->
+const palabra = 'Hola" <!--No sera valido-->
+
+Tambien existe otro metodo que utiliza las comillas invertidas llamado template literals.
+Los template literals, también conocidos como template strings,
+ son una característica más avanzada introducida en ES6 (ECMAScript 2015).
+  Estos permiten la interpolación de variables y expresiones en una cadena utilizando el operador ${}:
+
+const producto = 'manzanas'; 
+const cantidad = 5; 
+const mensaje = `Quiero comprar ${cantidad} ${producto}.`
+
+diferencias y ventajas 
+
+Legibilidad y flexibilidad: en términos de legibilidad, las comillas simples y 
+las comillas dobles son prácticamente intercambiables. Sin embargo, los template literals 
+destacan al permitir la interpolación de variables y expresiones en una cadena, lo que 
+hace que el código sea más claro y conciso.
+
+Uso de caracteres especiales: al trabajar con caracteres especiales, las comillas simples
+ y dobles son útiles. Por ejemplo, si deseas usar comillas dentro de una cadena, puedes alternar 
+ entre comillas simples y dobles:
+
+ const mensaje = 'Ella dijo: "Hola"'; 
+const respuesta = "Le contesté: '¡Hola tú también!'";
+
+Interpolación dinámica: aquí es donde los template literals brillan. 
+Puedes incorporar valores y expresiones directamente en la cadena, lo que facilita 
+la creación de mensajes dinámicos y personalizados.
