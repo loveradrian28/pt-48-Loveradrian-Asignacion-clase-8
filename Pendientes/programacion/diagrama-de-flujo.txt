@@ -1,0 +1,8 @@
+https://lucid.app/lucidchart/0fca8636-9645-45ab-af21-201de1101236/edit?invitationId=inv_e7f5ffd0-aec6-46aa-b72d-d660c48be55d&page=0_0#
+
+Pasos a seguir en una retroalimentacion: 
+
+- Evaluar los puntos a tratar: 
+
+    -Que se hizo bien durante el split?
+    -Que se puede mejorar del split anterior? => Hacer una lista de estos puntos => asignar action points para mejorar los puntos anteriores. 
